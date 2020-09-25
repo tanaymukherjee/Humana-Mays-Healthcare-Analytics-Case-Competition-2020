@@ -3,7 +3,7 @@ Mays Business School in partnership with Humana presents the fourth annual Human
 
 
 ## Data Dictionary
-The training dataset is huge in size and can't be uploaded here. This [link](https://cloud.humana.com/shares/Tpgwuu9trxW5?currentItemId=%2FMjUzMDMwfDIwMDMyfDI1Mjk4Mg%2F2020+Humana+Mays+Healthcare+Competition%2F) has all the relevant info for the competition. The 'Data' folder also has some relevant info for reading.
+The training/test dataset is huge in size and is therefore uplaoded in the 'Data' folder here by splitting it into smaller chunks. This [link](https://cloud.humana.com/shares/Tpgwuu9trxW5?currentItemId=%2FMjUzMDMwfDIwMDMyfDI1Mjk4Mg%2F2020+Humana+Mays+Healthcare+Competition%2F) has all the relevant info for the competition and the combined training and test dataset. 
 
 
 ## References
